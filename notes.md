@@ -1,6 +1,6 @@
 # M11 - Text Mining, by Sergey Khoroshenkikh
 
-
+[100pg ML Book, GitHub](https://github.com/aburkov/theMLbook)
 
 ## Day 01
 
