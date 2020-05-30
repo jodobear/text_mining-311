@@ -134,3 +134,17 @@ print(tabulate(vectorizer_internals, headers=["word", "idf", "count"]))
 >>> three   1              3
 '''
 ```
+
+## Day 04
+
+```py
+le = LabelEncoder()
+y = le.fit_transform(df.label)
+```
+
+##
+
+### node2vec
+
+Hyperparameters `p` & `q`: smaller `p` tends to make node2vec more like BFS while smaller `q` makes it more like DFS.
+
