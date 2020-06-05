@@ -148,3 +148,6 @@ y = le.fit_transform(df.label)
 
 Hyperparameters `p` & `q`: smaller `p` tends to make node2vec more like BFS while smaller `q` makes it more like DFS.
 
+## Day 14
+
+- TruncatedSVD - reduces dimensions, just like when we used PCA to visualize word2vec in 2D ~ kind of feature selection
